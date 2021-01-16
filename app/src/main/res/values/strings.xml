@@ -1,4 +1,34 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="Name">Shokir</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Curabitur id ipsum at orci facilisis scelerisque.
+        Mauris congue nisi ut fermentum convallis.
+
+            Duis tempus massa tellus, sit amet imperdiet orci rutrum et.
+        Suspendisse a eros sed sapien pretium ornare vel ac ante.
+        Praesent condimentum nulla magna, ac congue dolor pretium ut.
+        Vestibulum at lectus dictum, luctus ligula a, mattis diam.
+        Quisque nec dolor sed nulla ornare consectetur. Ut a nisi ac risus porttitor placerat.
+        Cras ipsum arcu, tincidunt ac fringilla vitae, consectetur ut eros. Quisque eu turpis urna.
+
+            Mauris auctor metus vitae ex mattis, at sollicitudin magna fringilla.
+        Maecenas viverra, diam non ullamcorper commodo, mauris odio pharetra velit,
+        eget pulvinar libero nulla vitae velit. Mauris ornare elementum rhoncus.
+        Morbi vel augue suscipit, bibendum arcu non, sodales risus. Sed sed vulputate turpis.
+        Nam vel fringilla dolor. Nulla augue risus, auctor eget quam vitae, rhoncus scelerisque ante.
+        Maecenas sagittis sodales dui, ac aliquet nibh sollicitudin ac.
+        Vivamus commodo nec turpis rhoncus dapibus. Phasellus id placerat nisl.
+        Suspendisse id tincidunt lacus. Cras malesuada leo ante, congue cursus lectus aliquam quis.
+
+        Integer at neque lobortis, tincidunt massa vitae, blandit lorem.
+        In non iaculis diam, sit amet feugiat augue. Mauris id laoreet diam.
+        Integer convallis tortor nec erat hendrerit posuere non quis nunc.
+        Etiam rutrum quis turpis sed commodo. Aliquam molestie eu felis a convallis.
+        Sed luctus venenatis augue feugiat ultrices.
+
+
+    </string>
 </resources>
