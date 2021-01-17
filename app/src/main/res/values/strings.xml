@@ -31,4 +31,6 @@
 
 
     </string>
+    <string name="nickname_hint">Your nickname...</string>
+    <string name="done">Done</string>
 </resources>
