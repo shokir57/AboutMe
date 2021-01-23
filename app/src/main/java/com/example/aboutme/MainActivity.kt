@@ -36,7 +36,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun addNickname(view: View){
         binding.apply {
-            tvNicknameText.text = binding.etNicknameEdit.text
+            // tvNicknameText.text = binding.etNicknameEdit.text
+            myName?.nickname = etNicknameEdit.text.toString()
             invalidateAll()  // refresh the UI with the new data.
             etNicknameEdit.visibility = View.GONE
             btnDone.visibility = View.GONE
