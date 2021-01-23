@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
+    // Instance of MyName data class.
     private val myName: MyName = MyName("Shokir")
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -29,6 +30,9 @@ class MainActivity : AppCompatActivity() {
 //        doneButton.setOnClickListener {
 //            addNickname(it)  // it in this context refers to the Done button.
 //        }
+
+        // Using the binding object to replace calls to findViewById, for example:
+
         binding.btnDone.setOnClickListener {
             addNickname(it)
         }
